@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=YAOKONG Member=R21
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R16
+Change Component Designator: OldDesignator=R21 NewDesignator=R18
+Change Component Designator: OldDesignator=R22 NewDesignator=R14
+Change Component Designator: OldDesignator=R23 NewDesignator=R15
+Change Component Designator: OldDesignator=R24 NewDesignator=R11
+Change Component Designator: OldDesignator=R25 NewDesignator=R12
+Added Member To Class: ClassName=YAOKONG Member=Component D2 SS54
+Added Member To Class: ClassName=YAOKONG Member=Component R19 10K

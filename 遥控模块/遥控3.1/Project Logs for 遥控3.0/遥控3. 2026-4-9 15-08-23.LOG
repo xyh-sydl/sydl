@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=+5VIN Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=+5VIN Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Member From Class: ClassName=Ò£¿Ø3 Member=C10
+Removed Member From Class: ClassName=Ò£¿Ø3 Member=C11
+Removed Member From Class: ClassName=Ò£¿Ø3 Member=C12
+Removed Member From Class: ClassName=Ò£¿Ø3 Member=D2
+Removed Member From Class: ClassName=Ò£¿Ø3 Member=R11
+Removed Member From Class: ClassName=Ò£¿Ø3 Member=U3
+Added Pin To Net: NetName=+5VIN Pin=C1-2
+Added Pin To Net: NetName=+5VIN Pin=C2-2
+Added Pin To Net: NetName=+5VIN Pin=C3-2
+Added Pin To Net: NetName=+5VIN Pin=L1-1
+Added Pin To Net: NetName=+5VIN Pin=R3-2
+Change Net Name : Old Net Name=+5VIN New Net Name=+5V
+Change Class Name : Old Net Name=Ò£¿Ø3 New Net Name=Ò£¿Ø3.0

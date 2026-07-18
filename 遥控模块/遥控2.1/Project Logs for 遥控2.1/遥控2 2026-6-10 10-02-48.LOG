@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=RF1-1
+Removed Pin From Net: NetName=GND Pin=RF1-2
+Removed Pin From Net: NetName=GND Pin=RF1-3
+Removed Pin From Net: NetName=ANT Pin=RF1-4
+Removed Member From Class: ClassName=遥控2 Member=RF1
+Added Component: Designator=L?(ANT-SMD_L15.0-W3.0)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Antenna Type"; Value = "贴片天线"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bandwidth"; Value = "600MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/400-1000MHz-chip(B%2526T-1503)/43122715.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "ANT-SMD_L15.0-W3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency(Center/Band)"; Value = "700MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "chip贴片天线，频率400 - 1000MHz，线极化，全向辐射"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ai-Thinker(安信可)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "400-1000MHz-chip(B&T-1503)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "33cf0c5dc77c4a29ba2792019a805752"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "ANT-SMD_L15.0-W3.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "590.55,118.8974,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+80℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Gain"; Value = "2dBi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "4W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,15x3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C41368044"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "400-1000MHZ-CHIP(B&T-1503)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VSWR"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ANT Pin=L?-1
+Added Pin To Net: NetName=GND Pin=L?-2
+Change Class Name : Old Net Name=遥控2 New Net Name=遥控2.1
+Added Member To Class: ClassName=遥控2.1 Member=Component L? 400-1000mhz-chip(b&t-1503)

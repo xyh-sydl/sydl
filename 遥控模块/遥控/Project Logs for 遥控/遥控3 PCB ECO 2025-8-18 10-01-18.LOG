@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=VT Pin=K1-1
+Removed Pin From Net: NetName=VT Pin=K1-1
+Removed Pin From Net: NetName=+5V Pin=K1-2
+Removed Pin From Net: NetName=+5V Pin=K1-2
+Change Component Footprint: Designator=K1 Old Footprint=SW-SMD_4P-L6.0-W6.0 New Footprint=SW-SMD_4P-L6.0-W6.0-P4.50-LS9.0_H5.0
+Change Component Comment : Designator=K1 Old Comment=SW-PB New Comment=TS-1187A-B-A-B
+Change component parameters: Designator = "K1" ("K1"); Footprint = "SW-SMD_4P-L6.0-W6.0"; UniqueID = "\LBOVXKLM" ("\LBOVXKLM")
+Change component parameters (AddParameter): Name = "Actuator Style"; Value = "圆形按钮"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator/Cap Color"; Value = "金色"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "单刀单掷"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200227/C318890_053E50208A88A7BA1965D8746000774E.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "5.1*5.1*1.5mm 立贴 轻触开关"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(中国星坤)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "10万次"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "立贴"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-30℃~+85℃"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Strike Gundam"; Value = "不带"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C318884"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Length"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Width"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "With Lamp"; Value = "无"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=K1-1
+Added Pin To Net: NetName=VT Pin=K1-2

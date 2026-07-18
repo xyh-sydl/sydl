@@ -1,0 +1,33 @@
+Added Component: Designator=U1(SOP-8)
+Added Component: Designator=U3(SOP-8)
+Added Component: Designator=U4(SOP14)
+Added Pin To Net: NetName=NetC2_2 Pin=U1-1
+Added Pin To Net: NetName=NetC2_1 Pin=U1-2
+Added Pin To Net: NetName=NetR2_1 Pin=U1-3
+Added Pin To Net: NetName=NetR4_2 Pin=U1-4
+Added Pin To Net: NetName=NetC1_1 Pin=U1-5
+Added Pin To Net: NetName=NetC3_1 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetU3_5 Pin=U3-5
+Added Pin To Net: NetName=NetU3_6 Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=VCC Pin=U3-8
+Added Pin To Net: NetName=NetR6_1 Pin=U4-2
+Added Pin To Net: NetName=NetSW1_2 Pin=U4-3
+Added Pin To Net: NetName=VCC Pin=U4-4
+Added Pin To Net: NetName=NetU3_6 Pin=U4-5
+Added Pin To Net: NetName=NetU3_5 Pin=U4-6
+Added Pin To Net: NetName=DATA Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=NetP4_2 Pin=U4-9
+Added Pin To Net: NetName=NetP4_3 Pin=U4-10
+Added Pin To Net: NetName=GND Pin=U4-11
+Added Pin To Net: NetName=NetP5_3 Pin=U4-12
+Added Pin To Net: NetName=NetR12_2 Pin=U4-13
+Added Pin To Net: NetName=NetR10_2 Pin=U4-14
+Added Member To Class: ClassName=YAOKONG Member=Component U1 EG1187
+Added Member To Class: ClassName=YAOKONG Member=Component U3 AT24C02
+Added Member To Class: ClassName=YAOKONG Member=Component U4

@@ -1,0 +1,134 @@
+Change Component Footprint: Designator=K1 Old Footprint=SW-SMD_4P-L6.0-W6.0 New Footprint=SW-SMD_4P-L6.0-W6.0-P4.50-LS9.0_H5.0
+Change Component Comment : Designator=K1 Old Comment=SW-PB New Comment=TS-1187A-B-A-B
+Change component parameters: Designator = "K1" ("K1"); Footprint = "SW-SMD_4P-L6.0-W6.0"; UniqueID = "\LBOVXKLM" ("\LBOVXKLM")
+Change component parameters (AddParameter): Name = "Actuator Style"; Value = "Ô²ÐÎ°´Å¥"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator/Cap Color"; Value = "½ðÉ«"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Circuit"; Value = "µ¥µ¶µ¥ÖÀ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200227/C318890_053E50208A88A7BA1965D8746000774E.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "5.1*5.1*1.5mm Á¢Ìù Çá´¥¿ª¹Ø"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "XKB Connectivity(ÖÐ¹úÐÇÀ¤)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mechanical Life"; Value = "10Íò´Î"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "Á¢Ìù"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-30¡æ~+85¡æ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Strike Gundam"; Value = "²»´ø"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C318884"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Height"; Value = "1.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Length"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Width"; Value = "5.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "TS-1187A-B-A-B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "With Lamp"; Value = "ÎÞ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V+ Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=+5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+3.3V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=+5V Pin=K1-1
+Added Pin To Net: NetName=VT Pin=K1-2
+Added Pin To Net: NetName=+5V Pin=L1-1
+Added Pin To Net: NetName=NetD1_1 Pin=L1-2
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=P1-2
+Added Pin To Net: NetName=D0_5V Pin=P1-3
+Added Pin To Net: NetName=VT Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=A2 Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=A1 Pin=P2-5
+Added Pin To Net: NetName=V+ Pin=P2-7
+Added Pin To Net: NetName=GND Pin=P2-8
+Added Pin To Net: NetName=ANT Pin=P4-1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=A1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=A2 Pin=Q2-3
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Pin To Net: NetName=VT Pin=R1-2
+Added Pin To Net: NetName=NetC2_1 Pin=R2-1
+Added Pin To Net: NetName=+5V Pin=R2-2
+Added Pin To Net: NetName=NetC2_1 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=+3.3V Pin=R4-1
+Added Pin To Net: NetName=A1 Pin=R4-2
+Added Pin To Net: NetName=D0_5V Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R6-2
+Added Pin To Net: NetName=+3.3V Pin=R7-1
+Added Pin To Net: NetName=A2 Pin=R7-2
+Added Pin To Net: NetName=D0_5V Pin=R8-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R9-2
+Added Pin To Net: NetName=NetLED2_1 Pin=R10-1
+Added Pin To Net: NetName=+3.3V Pin=R10-2
+Added Pin To Net: NetName=ANT Pin=RF1-1
+Added Pin To Net: NetName=ANT Pin=RF1-2
+Added Pin To Net: NetName=ANT Pin=RF1-3
+Added Pin To Net: NetName=ANT Pin=RF1-4
+Added Pin To Net: NetName=V+ Pin=U1-1
+Added Pin To Net: NetName=NetD1_1 Pin=U1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=+3.3V Pin=U2-2
+Added Pin To Net: NetName=+3.3V Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-3
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C1 33uF/100V
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C2 33nF
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C3 1uF
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C4 10uF
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C5 10uF
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C6 100nF
+Added Member To Class: ClassName=Ò£¿Ø Member=Component D1 S210
+Added Member To Class: ClassName=Ò£¿Ø Member=Component K1 TS-1187A-B-A-B
+Added Member To Class: ClassName=Ò£¿Ø Member=Component L1 47uH
+Added Member To Class: ClassName=Ò£¿Ø Member=Component LED1 LED
+Added Member To Class: ClassName=Ò£¿Ø Member=Component LED2 LED
+Added Member To Class: ClassName=Ò£¿Ø Member=Component P1 Header 7
+Added Member To Class: ClassName=Ò£¿Ø Member=Component P2 Header 8
+Added Member To Class: ClassName=Ò£¿Ø Member=Component P4 Plug
+Added Member To Class: ClassName=Ò£¿Ø Member=Component Q1 SS8050
+Added Member To Class: ClassName=Ò£¿Ø Member=Component Q2 SS8050
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R1 1K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R2 10K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R3 3.3K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R4 4.7K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R5 1K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R6 10K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R7 4.7K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R8 1K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R9 10K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component R10 1K
+Added Member To Class: ClassName=Ò£¿Ø Member=Component RF1 6GHz
+Added Member To Class: ClassName=Ò£¿Ø Member=Component U1 XL7005A
+Added Member To Class: ClassName=Ò£¿Ø Member=Component U2 AMS1117-3.3

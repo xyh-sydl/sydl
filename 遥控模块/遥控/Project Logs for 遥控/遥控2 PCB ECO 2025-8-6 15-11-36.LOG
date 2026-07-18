@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=+5V Pin=P1-2
+Removed Pin From Net: NetName=D0_5V Pin=P1-3
+Removed Pin From Net: NetName=VT Pin=P1-7
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X7 New Footprint=HDR1X8
+Change Component Comment : Designator=P1 Old Comment=Header 7 New Comment=Header 8
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=+5V Pin=P1-3
+Added Pin To Net: NetName=D0_5V Pin=P1-4
+Added Pin To Net: NetName=VT Pin=P1-8
+Added Pin To Net: NetName=ANT Pin=P1-1
+Added Pin To Net: NetName=ANT Pin=RF1-1
+Added Pin To Net: NetName=ANT Pin=RF1-2
+Added Pin To Net: NetName=ANT Pin=RF1-3
+Added Pin To Net: NetName=ANT Pin=RF1-4
+Added Net: Name=ANT

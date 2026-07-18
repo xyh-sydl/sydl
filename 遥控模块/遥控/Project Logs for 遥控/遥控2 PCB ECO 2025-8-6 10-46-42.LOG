@@ -1,0 +1,34 @@
+Added Component: Designator=K1(SW-SMD_4P-L6.0-W6.0)
+Add component (AddParameter): Name = "Actuator Style"; Value = "圆形按钮"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Actuator/Cap Color"; Value = "黑色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Circuit"; Value = "单刀单掷"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200810/C720475_60D09DD6C54279ADDB2DC25100F1CC11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "TS-1088-AR02016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MΩ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "4*3*2mm 立贴 轻触开关"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XUNPU(讯普)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "TS-1088-AR02016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mechanical Life"; Value = "10万次"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "立贴"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Force"; Value = "160gf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-30℃~+80℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Style"; Value = "SMD接片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Strike Gundam"; Value = "不带"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C720477"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Height"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch Width"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "TS-1088-AR02016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VT Pin=K1-1
+Added Pin To Net: NetName=VT Pin=K1-1
+Added Pin To Net: NetName=+5V Pin=K1-2
+Added Pin To Net: NetName=+5V Pin=K1-2
+Added Member To Class: ClassName=遥控 Member=Component C3 1uF
+Added Member To Class: ClassName=遥控 Member=Component K1 TS-1088-AR02016

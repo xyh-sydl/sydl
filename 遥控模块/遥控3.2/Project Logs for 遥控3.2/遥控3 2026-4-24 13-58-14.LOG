@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=A2 Pin=P3-2
+Removed Pin From Net: NetName=GND Pin=P3-4
+Removed Pin From Net: NetName=A1 Pin=P3-5
+Removed Pin From Net: NetName=A2 Pin=Q2-3
+Removed Pin From Net: NetName=+3.3V Pin=R5-1
+Removed Pin From Net: NetName=A2 Pin=R5-2
+Change Component Comment : Designator=R5 Old Comment=4.7K New Comment=100K
+Change component parameters: Designator = "R5" ("R5"); Footprint = "0603 - duplicate1"; UniqueID = "\SEHFAGLR" ("\SEHFAGLR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.irf.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "PD-9.390D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pin 4 not drawn and electrically connected to Pin 2."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-220AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603 - duplicate1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW-TH_DSWB02LHGET)
+Add component (AddParameter): Name = "Symbol"; Value = "DSWB02LHGET"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A1 Pin=P3-2
+Added Pin To Net: NetName=A2 Pin=P3-5
+Added Pin To Net: NetName=GND Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=D0 Pin=P2-3
+Added Pin To Net: NetName=D0 Pin=R7-1
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=P2-4
+Added Pin To Net: NetName=D1 Pin=R8-1
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=P2-5
+Added Pin To Net: NetName=D2 Pin=SW1-3
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=P2-6
+Added Pin To Net: NetName=D3 Pin=SW1-4
+Added Net: Name=D3
+Added Pin To Net: NetName=EN_V+ Pin=P3-6
+Added Pin To Net: NetName=EN_V+ Pin=Q3-3
+Added Pin To Net: NetName=EN_V+ Pin=R5-1
+Added Net: Name=EN_V+
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R11-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R5-2
+Added Pin To Net: NetName=NetQ3_1 Pin=R11-1
+Added Net: Name=NetQ3_1
+Change Class Name : Old Net Name=Ò£¿Ø3.0 New Net Name=Ò£¿Ø3.2
+Added Member To Class: ClassName=Ò£¿Ø3.2 Member=Component Q3 SP60P60T1
+Added Member To Class: ClassName=Ò£¿Ø3.2 Member=Component R11 100K
+Added Member To Class: ClassName=Ò£¿Ø3.2 Member=Component SW1 DSWB02LHGET

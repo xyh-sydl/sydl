@@ -1,0 +1,41 @@
+Added Component: Designator=U1(SOT-223)
+Added Component: Designator=U2(ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220401/C4C4A2A7D21C9FC2776ECF40A6ED664C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "EG1192L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "降压型"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "10V~100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "零功耗使能降压DCDC电源芯片"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EG(屹晶微)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "EG1192L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-45℃~+125℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "可调"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current (Iq)"; Value = "2uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "ESOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2987436"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch tube (built-in/external)"; Value = "内置"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "110kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "EG1192L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectification"; Value = "是"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "降压式"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=V+ Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetR1_2 Pin=U2-3
+Added Pin To Net: NetName=NetC4_1 Pin=U2-5
+Added Pin To Net: NetName=NetC3_1 Pin=U2-6
+Added Pin To Net: NetName=NetC3_2 Pin=U2-7
+Added Pin To Net: NetName=NetR2_1 Pin=U2-8
+Added Pin To Net: NetName=V+ Pin=U2-9
+Added Member To Class: ClassName=YAOKONG Member=Component U1 AMS1117-3.3
+Added Member To Class: ClassName=YAOKONG Member=Component U2 EG1192L
+Added Room: Name=YAOKONG

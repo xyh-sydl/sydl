@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=+5V Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Member From Class: ClassName=Ò£¿Ø Member=C3
+Added Component: Designator=C?(CAP-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP-0805)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=C?-2
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C? 1uF
+Added Member To Class: ClassName=Ò£¿Ø Member=Component C? 100nF
+Added Member To Class: ClassName=Ò£¿Ø Member=Component P2 Header 6

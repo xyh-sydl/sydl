@@ -1,0 +1,13 @@
+Source PCB Design 2X4PING.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Pick Place for 2X4PING.txt]
+   Generated File[Pick Place for 2X4PING.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 10:07:29 On 2025/12/4

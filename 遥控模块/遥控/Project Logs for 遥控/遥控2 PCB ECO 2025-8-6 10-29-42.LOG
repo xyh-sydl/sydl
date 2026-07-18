@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=A2 Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=A1 Pin=P2-4
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=V+ Pin=P2-7
+Removed Pin From Net: NetName=GND Pin=P2-8
+Removed Member From Class: ClassName=Ò£¿Ø Member=P2
+Added Component: Designator=P?(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A2 Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=A1 Pin=P?-3
+Added Pin To Net: NetName=GND Pin=P?-4
+Added Pin To Net: NetName=V+ Pin=P?-5
+Added Pin To Net: NetName=GND Pin=P?-6
+Added Member To Class: ClassName=Ò£¿Ø Member=Component P? Header 6
+Added Room: Name=Ò£¿Ø

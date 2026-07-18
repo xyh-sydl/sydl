@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R1 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R2 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R3 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R4 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R5 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R6 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R7 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R8 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R9 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=R10 Old Footprint=0805 New Footprint=0603 - duplicate1
+Change Component Footprint: Designator=C2 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C3 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C4 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C5 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=C6 Old Footprint=CAP-0805 New Footprint=CAP-0603
+Change Component Footprint: Designator=D1 Old Footprint=SMB_L4.6-W3.6-LS5.3-RD New Footprint=SMA_L4.3-W2.6-LS5.0-RD

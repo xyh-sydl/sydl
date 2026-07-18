@@ -1,0 +1,13 @@
+Added Component: Designator=D1(SMA_L4.3-W2.6-LS5.0-RD)
+Add component (AddParameter): Name = "image"; Value = "//image.lceda.cn/szlcsc/C64982.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Assembly"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MDD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "B340A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMT Type"; Value = "Extend"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "B340A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C64982"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Member To Class: ClassName=Ò£¿Ø Member=Component D1 S210

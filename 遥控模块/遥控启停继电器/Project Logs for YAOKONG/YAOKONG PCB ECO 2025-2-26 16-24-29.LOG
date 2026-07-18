@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VCC Pin=R8-2
+Added Pin To Net: NetName=NetC3_2 Pin=R8-2
