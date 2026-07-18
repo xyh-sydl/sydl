@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=PA0 Pin=R6-1
+Removed Pin From Net: NetName=3.3V Pin=R6-2
+Removed Pin From Net: NetName=PA1 Pin=R7-1
+Removed Pin From Net: NetName=3.3V Pin=R7-2
+Removed Member From Class: ClassName=CAN×ªIO Member=R6
+Removed Member From Class: ClassName=CAN×ªIO Member=R7
+Change Component Footprint: Designator=P2 Old Footprint=Header_4X1_2.54_ÅÅÕë New Footprint=CONN-TH_6P-P2.50_HC-XH-6AW-G
+Change Component Comment : Designator=P2 Old Comment=Header 4 New Comment=Header 6
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=RX Pin=P2-5
+Added Pin To Net: NetName=RX Pin=U3-31
+Added Net: Name=RX
+Added Pin To Net: NetName=TX Pin=P2-6
+Added Pin To Net: NetName=TX Pin=U3-30
+Added Net: Name=TX

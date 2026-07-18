@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3.3V Pin=-2
+Change Component Comment : Designator= Old Comment=LED_B New Comment=green
+Change Component Comment : Designator= Old Comment=LED_B New Comment=red
+Added Pin To Net: NetName=3.3V Pin=-1
+Added Pin To Net: NetName=NetLED1_2 Pin=-2
+Added Pin To Net: NetName=NetLED1_2 Pin=-2
+Added Net: Name=NetLED1_2

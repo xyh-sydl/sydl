@@ -1,0 +1,10 @@
+Output: Protel
+Type  : ProtelNetlist
+From  : Project [CANתIO.PrjPcb]
+   Generated File[CANתIO.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:40:44 On 2026/5/11

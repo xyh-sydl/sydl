@@ -1,0 +1,36 @@
+Change Component Footprint: Designator= Old Footprint=0402 New Footprint=CAP-0603
+Change Component Footprint: Designator= Old Footprint=SOD-523 New Footprint=SOD-123
+Change Component Comment : Designator= Old Comment=100nF/50V/0402 New Comment=100nF/50V/0603
+Change Component Comment : Designator= Old Comment=Diode-Z New Comment=1N4148
+Change Component Description : Designator= Old Description=稳压二极管 New Description=
+Change component parameters: Designator = "" ("C4"); Footprint = "0402"; UniqueID = "\JIAIBFQW" ("\JIAIBFQW")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF/50V/0603"; VariantName = "[No Variations]"
+Added Component: Designator=C11(cap-0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/16V/0402"; VariantName = "[No Variations]"
+Added Component: Designator=C12(cap-0402)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF/16V/0402"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=-2
+Added Pin To Net: NetName=3.3V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=3.3V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=3.3V Pin=-1
+Added Pin To Net: NetName=GND Pin=-8
+Added Pin To Net: NetName=3.3V Pin=-9
+Added Member To Class: ClassName=CAN转IO Member=Component C11 100nF/16V/0402
+Added Member To Class: ClassName=CAN转IO Member=Component C12 100nF/16V/0402

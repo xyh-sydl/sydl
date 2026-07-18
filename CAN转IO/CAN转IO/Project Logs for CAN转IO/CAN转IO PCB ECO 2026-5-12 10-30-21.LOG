@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=3.3V Pin=-2
+Added Pin To Net: NetName=3.3V Pin=-1
+Added Pin To Net: NetName=NetLED2_2 Pin=-2
+Added Pin To Net: NetName=NetLED2_2 Pin=-2
+Added Net: Name=NetLED2_2
